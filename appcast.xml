@@ -5,6 +5,18 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Mon, 10 Jul 2023 23:22:35 +0800</pubDate>
+            <sparkle:version>124</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo.dmg" length="39127035" type="application/octet-stream" sparkle:edSignature="SuT0kyQXsSZCTbp8p7rSTR3lBBK1tE+muWusi7NGWoCpnzEOpTGF72RZIFrwnlvA7ljXH84cIOrRocp9NYtWBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo124-121.delta" sparkle:deltaFrom="121" length="33071614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="YUu0Vb7tV0jA0OY4oR43nwyH7NCAcbmhziXZjojY221x9nKlRaGMrfIw2wjrjZG+tPVhRLegjW5eT6PXiE5CAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo124-120.delta" sparkle:deltaFrom="120" length="33963890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="sFcuzx0H2avJ0kVUlcnA3DZWI/TB8BPESIe+QrND61UNeuO1MpIHu1vjm6nlzM9CGPF/kVbKE0WzpQAJ/5zgDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Thu, 29 Jun 2023 11:32:55 +0800</pubDate>
             <sparkle:version>122</sparkle:version>
@@ -22,7 +34,6 @@
             <sparkle:version>121</sparkle:version>
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo121.app.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo121.app.zip" length="5986137" type="application/octet-stream" sparkle:edSignature="RAiq7nIYZ4o1RoSuhw4t4F/0KdWdAlKWWNejUX8iLsC5ERRHC0wOWhf0XDC9hO2EHHnnTMrpKqFRNTL1IFZNAw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo121121-120.delta" sparkle:deltaFrom="120" length="1914918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="mrvZK79FjnBCKDf0TRYvuxZzbt5wvfRelY/y57fxm3N2V7pmeOQ1w77jk/SrVpQ/AKApaIHj/3b0fP2s7VeEAQ=="/>
@@ -30,14 +41,6 @@
                 <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo121121-115.delta" sparkle:deltaFrom="115" length="2542362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dCVwefgRnCSkv3/IK7rnm4Xvjz4VrZp5yNqz/2C4GmEgLUE1N88wHLf3rARxsR4Zm9prTcblTlEUGsZfykb0Bg=="/>
                 <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo121121-116.delta" sparkle:deltaFrom="116" length="2540590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SkP/eEw0IhjJRNIkC3Segq0hOkt/nfoNlneKuLJkliKsY4H29oeaIvz4PSvqtN4YvWJlSJMD/fIJUZx8BjO6Dg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Mon, 22 May 2023 08:17:33 +0800</pubDate>
-            <sparkle:version>120</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ysnows/sparkle/main/EnConvo120.app.zip" length="4904704" type="application/octet-stream" sparkle:edSignature="ANJN4tTYleycxdboJtKwdAqgeKQ3EMJAu3c0absoTrzG/UyBU/V5VA/PPqKFEZ8260eVdtDD1Zzim9R3XFAcCg=="/>
         </item>
     </channel>
 </rss>
