@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Azure OpenAI",
+        "version": "0.0.3",
+        "author": "ysnows",
+        "extensionId": "enconvo.azure-openai",
+        "logo": "ns:translate",
+        "description": "Azure OpenAI",
+        "homePage": "https://github.com/ysnows/enconvo.azure-openai",
+        "appCast": "https://raw.githubusercontent.com/ysnows/enconvo.azure-openai/main/appcast.json",
+        "minAppVersion": "1.2.1",
+        "flowType": "llmEngine"
+    },
+    {
+        "name": "OpenRouter",
+        "version": "0.0.5",
+        "author": "ysnows",
+        "extensionId": "ysnows.openrouter",
+        "logo": "ns:translate",
+        "description": "OpenRouter",
+        "homePage": "https://github.com/ysnows/ysnows.openrouter",
+        "appCast": "https://raw.githubusercontent.com/ysnows/ysnows.openrouter/main/appcast.json",
+        "minAppVersion": "1.2.1",
+        "flowType": "llmEngine"
+    },
+    {
+        "name": "OpenAI",
+        "version": "0.0.5",
+        "author": "ysnows",
+        "extensionId": "enconvo.chatgpt",
+        "logo": "ns:translate",
+        "description": "Chat GPT - OpenAi",
+        "homePage": "https://github.com/ysnows/enconvo-chatgpt-offical",
+        "appCast": "https://raw.githubusercontent.com/ysnows/enconvo-chatgpt-offical/main/appcast.json",
+        "minAppVersion": "1.2.1",
+        "flowType": "llmEngine"
+    }
+]
