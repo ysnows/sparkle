@@ -14,7 +14,8 @@ jobs:
   build-release:
     runs-on: "ubuntu-latest"
     steps:
-      # 创建Release
+      - name: "Checkout code"
+        uses: actions/checkout@v3
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
